@@ -29,3 +29,6 @@ aik branch sa dusry branch man jana ka popular shortcut checkout ka ilawa.
 
 Fifth Tip : 
 <code>git switch -C contact</code> Aik he bar man branch create bhe ho jaya ge or hm us main switch bhe kr janya gan.
+
+Sixth & IMP Tip:
+<code>git revert 41c4626 -m 1</code> branch ko merge kr kah push kr dia ab yad aya merge nhi krna tha uska shortcut.
