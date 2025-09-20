@@ -10,9 +10,15 @@ skta han. <code>git merger base/main </code> donon ko merge kr lan gan.
 
 VIDEO-N0-13 ( LAST VIDEO SHORTCUTS)
 
+First Tip:
 <code>git restore --staged . </code> sary files staging area sa bahir a janya
 ge. <code>git commit -am "add and commit Akhita.</code> code ko add and commit
 akhita krna ka shortcut.
 
+Second Tip:
 <code>git checkout f8deb99 script.js</code> jis file ko code hmna push kr dia
-usko vapis lana ka Tarika.
+usko vapis lana ka Tarika. 
+
+Third Tip :
+<code>git config --global -e</code> By-default vs code editor set kr skta han
+Git kalia agr bhul gaya install krta vakt.
