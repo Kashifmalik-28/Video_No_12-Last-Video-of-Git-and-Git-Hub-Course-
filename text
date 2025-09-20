@@ -22,3 +22,10 @@ usko vapis lana ka Tarika.
 Third Tip :
 <code>git config --global -e</code> By-default vs code editor set kr skta han
 Git kalia agr bhul gaya install krta vakt.
+
+Fourth Tip :
+aik branch sa dusry branch man jana ka popular shortcut checkout ka ilawa.
+<code>git switch about</code>
+
+Fifth Tip : 
+<code>git switch -C contact</code> Aik he bar man branch create bhe ho jaya ge or hm us main switch bhe kr janya gan.
